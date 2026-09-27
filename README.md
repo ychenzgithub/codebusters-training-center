@@ -68,3 +68,7 @@ Cipher conventions follow the *Science Olympiad Codebusters Guide for Coaches, E
 the [2026–27 rules summary](https://toebes.com/codebusters/Rule-Summary-2027.html), and the ACA cipher definitions.
 This is an independent study tool and is **not affiliated with or endorsed by Science Olympiad, Inc.**
 The official rules at [soinc.org](https://www.soinc.org/codebusters-b) always take precedence.
+
+## Copyright & license
+
+© 2026 Yang Chen ([@ychenzgithub](https://github.com/ychenzgithub)). Source code is released under the [MIT License](LICENSE).
